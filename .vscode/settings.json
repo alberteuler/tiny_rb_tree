@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.f90": "FortranFreeForm",
+        "*.md": "markdown",
+        "ostream": "cpp"
+    }
+}
